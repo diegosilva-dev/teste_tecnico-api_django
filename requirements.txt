@@ -1,0 +1,10 @@
+django
+djangorestframework
+mysqlclient
+redis
+django-redis
+django-filter
+drf-spectacular
+pytest
+pytest-django
+python-dotenv
